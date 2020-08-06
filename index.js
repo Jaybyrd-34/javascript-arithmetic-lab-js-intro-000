@@ -11,5 +11,5 @@ function subtract(x,y){
    return x / y
  }
 function increment(n){
-  return n++
+  return n += 1
 }
