@@ -16,6 +16,5 @@ function increment(n){
 function decrement(n){
   return n -= 1
 }
-function makeint("n",10){
-  return makeint.parseInt()
-}
+function makeint("n", 10){
+  
