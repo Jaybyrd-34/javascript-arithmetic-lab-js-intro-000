@@ -17,5 +17,5 @@ function decrement(n){
   return n -= 1
 }
 function makeInt(parseInt("x", base)){
-  
+
 }
