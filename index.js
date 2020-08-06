@@ -20,3 +20,7 @@ function makeInt(a){
  var number = parseInt(a, 10);
  return number;
 }
+function preserveDecimal(a){
+  var number = parseFloat(a);
+  return number;
+}
