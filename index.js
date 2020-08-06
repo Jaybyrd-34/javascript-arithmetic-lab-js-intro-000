@@ -16,6 +16,8 @@ function increment(n){
 function decrement(n){
   return n -= 1
 }
-function makeInt.parseInt("x", base){
-
+function makeInt("n", 10){
+  
 }
+
+
