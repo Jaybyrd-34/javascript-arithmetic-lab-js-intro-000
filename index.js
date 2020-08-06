@@ -17,4 +17,3 @@ function decrement(n){
   return n -= 1
 }
 function makeint("n", 10){
-  
